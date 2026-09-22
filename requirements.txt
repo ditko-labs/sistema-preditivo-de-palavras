@@ -1,0 +1,2 @@
+# O núcleo do projeto usa apenas a biblioteca padrão do Python 3.10+.
+# Nenhuma dependência externa é necessária para treinar, predizer ou avaliar.
