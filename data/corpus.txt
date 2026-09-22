@@ -1,0 +1,75 @@
+O aluno estudou para a prova de estatística. A aluna estudou para a prova de estatística. Os alunos estudaram para a prova de estatística. Muitos alunos fizeram a prova de estatística. O professor aplicou a prova de estatística. A turma revisou para a prova de estatística. Quem faltou perdeu a prova de estatística. O monitor resolveu exercícios da prova de estatística. A recuperação também foi uma prova de estatística. No laboratório saiu outra prova de estatística.
+
+O aluno estudou para a prova de matemática. Alguns alunos fizeram a prova de probabilidade. Poucos alunos fizeram a prova de cálculo. A maioria preferiu a prova de estatística. Depois da aula veio a prova de estatística. Durante a semana rolou a prova de estatística. O calendário confirmou a prova de estatística. A coordenação marcou a prova de estatística.
+
+A análise exploratória de dados revela padrões ocultos. A análise exploratória de dados precede qualquer modelo. Sem análise exploratória de dados o estudo fica cego. O curso começa pela análise exploratória de dados. O relatório descreve a análise exploratória de dados. A equipe concluiu a análise exploratória de dados. Visualizar histogramas faz parte da análise exploratória de dados. Tratar valores ausentes entra na análise exploratória de dados. Detectar outliers é etapa da análise exploratória de dados. A disciplina ensina análise exploratória de dados.
+
+O teorema de bayes atualiza crenças com evidência. O professor explicou o teorema de bayes. A aluna aplicou o teorema de bayes. O sistema preditivo usa o teorema de bayes. A inferência bayesiana nasce do teorema de bayes. Calcular a posterior exige o teorema de bayes. A prova oral cobrou o teorema de bayes. O artigo revisa o teorema de bayes. Em classificação textual aparece o teorema de bayes. O notebook implementa o teorema de bayes.
+
+A probabilidade condicional de uma palavra depende do contexto. A probabilidade condicional de uma palavra muda com o histórico. Estimar a probabilidade condicional de uma palavra é o objetivo. O modelo calcula a probabilidade condicional de uma palavra. Bayes devolve a probabilidade condicional de uma palavra. Sem contexto a probabilidade condicional de uma palavra vira prior. A tabela mostra a probabilidade condicional de uma palavra. A função estima a probabilidade condicional de uma palavra.
+
+O modelo utiliza n grams para capturar sequência. O sistema constrói n grams a partir do corpus. Bigrams e trigrams são n grams de ordens distintas. Contar n grams gera a matriz de transição. Esparsos ficam os n grams de ordem alta. O pipeline extrai n grams de cada sentença. A interpolação mistura n grams de várias janelas. O aluno implementou n grams no exercício.
+
+A suavização de laplace evita probabilidade zero. Sem a suavização de laplace o modelo quebra em contextos novos. Add one é a suavização de laplace clássica. O código aplica suavização de laplace em cada termo. A verossimilhança recebe suavização de laplace. O prior também usa suavização de laplace. O relatório discute a suavização de laplace. Casos inéditos pedem suavização de laplace.
+
+O corpus passou por limpeza antes do treino. Depois da coleta o corpus passou por limpeza. Tokenizar só funciona se o corpus passou por limpeza. Acentuação foi preservada quando o corpus passou por limpeza. Pontuação saiu enquanto o corpus passou por limpeza. O script mostra que o corpus passou por limpeza. Qualidade sobe depois que o corpus passou por limpeza.
+
+A próxima palavra mais provável é a sugestão do sistema. O algoritmo devolve a próxima palavra mais provável. Bayes escolhe a próxima palavra mais provável. O ranking lista a próxima palavra mais provável. A confiança acompanha a próxima palavra mais provável. Em empate ainda existe uma próxima palavra mais provável. O usuário lê a próxima palavra mais provável.
+
+A disciplina de análise exploratória de dados usa o teorema de bayes. O exercício pede um sistema preditivo de palavras. O aluno construiu um sistema preditivo de palavras. A frase de entrada alimenta o sistema preditivo de palavras. A saída informa a palavra e a porcentagem de confiança. A confiança da predição vem da posterior normalizada. A evidência é a soma das posteriors não normalizadas.
+
+O prior mede quão comum é a palavra no corpus. A verossimilhança mede quão bem o contexto antecede a palavra. A evidência normaliza as hipóteses no vocabulário. Palavras fora do vocabulário viram o token desconhecido. Contextos curtos recebem o marcador de início de sentença. Bordas do problema incluem frases vazias e termos inéditos.
+
+O aluno estudou para a prova com o monitor. A aluna estudou para a prova no laboratório. Eles estudaram para a prova durante a madrugada. Quem estudou para a prova de estatística foi melhor. Quem estudou para a prova de probabilidade também avançou. Estudar pouco para a prova de cálculo costuma custar caro.
+
+A média, a mediana e a moda descrevem o centro. Variância e desvio padrão descrevem a dispersão. Um histograma mostra a forma da distribuição. Um boxplot aponta valores atípicos. A correlação mede associação linear entre variáveis. Causação não segue automaticamente da correlação. A amostragem precisa representar a população. Viés de seleção distorce qualquer conclusão.
+
+O classificador naive bayes assume independência condicional. Mesmo com a hipótese forte o naive bayes funciona bem em texto. O filtro de spam clássico usa naive bayes. A posterior do naive bayes vem do produto das verossimilhanças. Laplace também ajuda o naive bayes em atributos raros.
+
+A matriz de transição guarda a frequência de cada n gram. Cada célula da matriz de transição estima um salto. Normalizar a matriz de transição produz probabilidades. A matriz de transição do bigram é mais densa que a do trigram. Esparsidade cresce quando a matriz de transição sobe de ordem.
+
+O vocabulário é o conjunto de palavras observadas. Um termo inédito fica fora do vocabulário. Mapear para desconhecido trata o fora do vocabulário. Frequência mínima reduz o ruído do vocabulário. Vocabulário pequeno deixa o modelo estável. Vocabulário enorme deixa o modelo esparso.
+
+A interpolação linear mistura trigram, bigram e unigram. Quando o trigram é raro o bigram segura a interpolação linear. O unigram impede colapso total da interpolação linear. Os pesos da interpolação linear somam um. Ajustar os pesos muda o viés da interpolação linear.
+
+A frase o aluno estudou para a prova de estatística aparece várias vezes. Outra frase é a análise exploratória de dados. Mais uma frase é o teorema de bayes. Também entra a probabilidade condicional de uma palavra. O modelo utiliza n grams em toda sentença. A suavização de laplace entra em cada cálculo. O corpus passou por limpeza e tokenização. A próxima palavra mais provável fecha o ciclo.
+
+No quinto semestre a turma enfrenta análise exploratória de dados. O professor pediu um exercício programa sobre predição de palavras. A entrega inclui código modular, corpus e documentação. O repositório precisa explicar a lógica bayesiana. Casos de teste demonstram o comportamento do sistema.
+
+Dados categóricos pedem tabelas de frequência. Dados numéricos pedem resumo estatístico. Dados textuais pedem tokenização e n grams. Dados faltantes pedem estratégia explícita. Dados duplicados pedem deduplicação. Dados enviesados pedem cuidado na generalização.
+
+O aluno leu o capítulo de probabilidade. A aluna leu o capítulo de estatística. A turma leu o capítulo de bayes. O monitor leu o capítulo de n grams. O professor leu o capítulo de suavização. Quem leu o capítulo de limpeza implementou melhor o corpus.
+
+A prova de estatística cobrou probabilidade condicional. A prova de estatística cobrou o teorema de bayes. A prova de estatística cobrou análise exploratória de dados. A prova de estatística cobrou suavização de laplace. A prova de estatística cobrou n grams. A prova de matemática cobrou limites. A prova de probabilidade cobrou variáveis aleatórias.
+
+Depois da prova de estatística veio o projeto. Depois da análise exploratória de dados veio o modelo. Depois do teorema de bayes veio a implementação. Depois da suavização de laplace veio a validação. Depois que o corpus passou por limpeza veio o treino. Depois de ranquear a próxima palavra mais provável veio o relatório.
+
+O laboratório de dados fica aberto à noite. O laboratório de estatística tem computadores reservados. O laboratório de probabilidade usa simulação. O laboratório de bayes testa o preditor. O laboratório de n grams mede esparsidade.
+
+A confiança alta indica contexto frequente no corpus. A confiança baixa indica contexto raro ou inédito. Confiança não é certeza absoluta. Confiança é a posterior da palavra escolhida. Interpretar a confiança exige olhar o restante do ranking.
+
+O aluno revisou probabilidade condicional de uma palavra rara. A aluna revisou probabilidade condicional de uma palavra comum. O grupo revisou probabilidade condicional de uma palavra técnica. O monitor revisou probabilidade condicional de uma palavra acadêmica.
+
+Em aula o professor escreveu o teorema de bayes no quadro. Em casa o aluno reescreveu o teorema de bayes no caderno. No código a função materializa o teorema de bayes. No teste a asserção verifica o teorema de bayes. No README o texto explica o teorema de bayes.
+
+A coleta de dados textuais exige fonte coerente. A limpeza remove caracteres especiais. A normalização reduz o texto a minúsculas. A tokenização parte o texto em palavras. A sentença vira uma lista de tokens. O n gram desliza sobre essa lista.
+
+Bigrams ligam uma palavra à seguinte. Trigrams ligam duas palavras à seguinte. Unigrams ignoram o contexto e usam só a frequência. Unigrams salvam o modelo quando o contexto desaparece. Bigrams equilibram contexto e cobertura. Trigrams acertam quando o par anterior é conhecido.
+
+O aluno estudou para a prova de estatística no fim de semana. A aluna estudou para a prova de estatística com resumos. Eles estudaram para a prova de estatística em grupo. Nós estudamos para a prova de estatística com listas antigas. Vocês estudaram para a prova de estatística e foram bem.
+
+A análise exploratória de dados encontrou assimetria. A análise exploratória de dados encontrou multimodalidade. A análise exploratória de dados encontrou correlação forte. A análise exploratória de dados encontrou variável inútil. A análise exploratória de dados encontrou erro de digitação.
+
+O sistema preditivo sugere estatística após prova de. O sistema preditivo sugere dados após exploratória de. O sistema preditivo sugere bayes após teorema de. O sistema preditivo sugere palavra após condicional de uma. O sistema preditivo sugere grams após utiliza n. O sistema preditivo sugere laplace após suavização de. O sistema preditivo sugere limpeza após passou por. O sistema preditivo sugere provável após palavra mais.
+
+Quando a entrada é vazia o prior manda. Quando a entrada é uma só palavra o bigram manda. Quando a entrada tem duas ou mais o trigram manda. Quando o contexto nunca apareceu a suavização segura. Quando a palavra é inédita o token desconhecido entra.
+
+O exercício programa pede modularização e type hinting. Funções puras deixam o cálculo testável. Classes agrupam estado do modelo. Comentários só aparecem onde a decisão não é óbvia. O README vende a solução e documenta as bordas.
+
+A turma discutiu overfitting em modelos preditivos. A turma discutiu underfitting em modelos simples. A turma discutiu viés e variância. A turma discutiu validação hold out. A turma discutiu precisão top um e top três.
+
+Precisão top um exige acerto na primeira sugestão. Precisão top três aceita a palavra entre as três primeiras. Hold out esconde a última palavra da sentença. Casos rotulados cobrem as frases do enunciado. Relatar as duas métricas deixa a validação honesta.
+
+O aluno entregou o sistema preditivo de palavras no prazo. A aluna documentou o sistema preditivo de palavras no github. O grupo apresentou o sistema preditivo de palavras na aula. O professor avaliou o sistema preditivo de palavras pela clareza.
+
+Estatística descreve, probabilidade antecipa e bayes atualiza. Dados sujos enganam qualquer estatística. Contexto pobre enfraquece qualquer probabilidade. Evidência nova corrige qualquer bayes. Por isso a análise exploratória de dados vem primeiro. Por isso a prova de estatística cobra fundamento. Por isso o teorema de bayes aparece no exercício. Por isso a suavização de laplace é obrigatória. Por isso o modelo utiliza n grams. Por isso o corpus passou por limpeza. Por isso a próxima palavra mais provável sai com confiança.
